@@ -6,10 +6,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
 </head>
-
 <body>
 
-Hello World!!!
+hello from spring mvc
 
 </body>
 </html>
